@@ -1,0 +1,2 @@
+# Slider
+React reusable component 
